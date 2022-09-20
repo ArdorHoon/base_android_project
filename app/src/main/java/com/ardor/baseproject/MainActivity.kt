@@ -1,11 +1,12 @@
 package com.ardor.baseproject
 
-import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
+import androidx.activity.viewModels
+import com.ardor.baseproject.base.BaseActivity
+import com.ardor.baseproject.databinding.ActivityMainBinding
+import com.ardor.baseproject.viewmodel.SampleViewModel
 
-class MainActivity : AppCompatActivity() {
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+class MainActivity :
+    BaseActivity<ActivityMainBinding, SampleViewModel>(R.layout.activity_main) {
+    override val viewModel: SampleViewModel by viewModels()
+
     }
-}
