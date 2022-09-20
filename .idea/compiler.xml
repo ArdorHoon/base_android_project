@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.7">
-      <module name="BaseProject.app" target="1.8" />
-      <module name="BaseProject.data" target="1.8" />
+      <module name="BaseProject.app" target="11" />
+      <module name="BaseProject.data" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
