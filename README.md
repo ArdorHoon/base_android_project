@@ -2,7 +2,7 @@
 
 ## 🍏 Notice
 
-When using this project, please download it and change the **`package name`** (The current package name is 'com.ador.baseproject')
+When using this project, please download it and change the **`package name`** (The current package name is `com.ador.baseproject`)
 
 ## 🍉Library
 * Navigation
