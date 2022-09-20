@@ -4,6 +4,10 @@
 
 When using this project, please download it and change the **`package name`** (The current package name is `com.ador.baseproject`)
 
+## 😎 Architecture
+* MVVM
+* Clean Architecture
+
 ## 🍉Library
 * Navigation
 * Room
