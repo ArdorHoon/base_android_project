@@ -4,6 +4,9 @@
 
 When using this project, please download it and change the **`package name`** (The current package name is `com.ador.baseproject`)
 
+1. minSdk : 25
+2. using JAVA 11 
+
 ## 😎 Architecture
 * MVVM
 * Clean Architecture
